@@ -29,9 +29,9 @@ body {
     background-size: cover;
 }
 
-.container1 img{
+/* .container1 img{
     z-index: -99999;
-}
+} */
 
 .container2 {
     width: 50%;
@@ -91,7 +91,7 @@ h6 {
     font-family: Roboto-Medium;
     font-size: 50px;
     position: absolute;
-    top: 83%;
+    top: 730px;
     left: 16%;
     color: white;
 }
@@ -100,7 +100,7 @@ h6 {
     font-family: Roboto-Medium;
     font-size: 20px;
     position: absolute;
-    top: 92%;
+    top: 820px;
     left: 22%;
     color: #538a6c;
 }
